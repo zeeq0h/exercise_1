@@ -55,16 +55,8 @@ Complex& subtract(Complex& c, Complex& res)
 /*
 Complex& multiply(Complex& c, Complex& res)
 {
-	Complex multiply;
-	//convert from REC to POL
-	//find magnitude from before for both c and res
-	double magnitude_c = abs(sqrt(pow(c.re, 2) + pow(c.im, 2)));
-	double magnitude_res = abs(sqrt(pow(res.re, 2) + pow(res.im, 2)));
-	
-	//find the angle of both c and res (tan-1(y/x)
-	double angle_c
-	double angle_res
-
-	return multiply;
+	complex multiply;
+	multiply.re = (c.re + res.re) + (c.im + res.im * -1)
+	multiply.im = (c.re + res.im) + (c.im + res.re);
 }
 */
