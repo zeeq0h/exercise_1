@@ -1,0 +1,6 @@
+﻿  complex.cpp
+  main.cpp
+  Generating Code...
+C:\Users\logan\Desktop\college work\college\UNI YEAR 2\EE273 Engineering Software\Labs\Lab06\Exercise_1\complex.cpp(42): warning C4172: returning address of local variable or temporary: add
+C:\Users\logan\Desktop\college work\college\UNI YEAR 2\EE273 Engineering Software\Labs\Lab06\Exercise_1\complex.cpp(52): warning C4172: returning address of local variable or temporary: sub
+  Exercise_1.vcxproj -> C:\Users\logan\Desktop\college work\college\UNI YEAR 2\EE273 Engineering Software\Labs\Lab06\Exercise_1\x64\Debug\Exercise_1.exe
